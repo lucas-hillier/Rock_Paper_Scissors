@@ -1,0 +1,1 @@
+A simple Rock, Paper, Scissors game done using JavaScript as part of The Odin Project's Full Stack JavaScript course. https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors?ref=lnav
